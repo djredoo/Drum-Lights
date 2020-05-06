@@ -1,7 +1,7 @@
 # Drum-Lights
 ### Lighting I created for the snare drums of my marching band. This project is based on an Arduino Pro Mini.
 
-The code ist based on the "Knock Sensor" by [David Cuartielles}( http://www.0j0.org)
+The code ist based on the "Knock Sensor" by [David Cuartielles]( http://www.0j0.org)
 
 #### Materials:
 + 1x Arduino Pro Mini
