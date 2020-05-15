@@ -31,7 +31,7 @@ Solder the cables to the labeled joints. Connect the two battery clips in **_par
 
 #### Attachment:
 
-Attach the LED strips as you like an put the piezo sensor directly onto the drumskin.
+Attach the LED strips as you like and place the piezo sensor directly onto the drumskin.
 
 ---
 
