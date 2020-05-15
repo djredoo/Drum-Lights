@@ -3,6 +3,8 @@
 
 The code ist based on the "Knock Sensor" by [David Cuartielles]( http://www.0j0.org)
 
+---
+
 #### Materials:
 + 1x Arduino Pro Mini
 + 1x [TIP31C](https://www.aliexpress.com/item/32867885100.html)
@@ -16,10 +18,21 @@ The code ist based on the "Knock Sensor" by [David Cuartielles]( http://www.0j0.
 + 2x [Female-Header](https://www.aliexpress.com/item/32724478308.html)
 + Wires
 
+---
+
 #### Assembly:
 Just solder the components on the PCB as seen below:
-
 <img src="https://github.com/djredoo/Drum-Lights/blob/master/Drum-Lights-Assembled.jpeg" width="300">
+
+Solder the cables to the labeled joints. Connect the two battery clips in **_parallel_**
+
+---
+
+#### Attachment:
+
+Attach the LED strips as you like an put the piezo sensor directly onto the drumskin.
+
+---
 
 #### Example Video can be seen here:
 
